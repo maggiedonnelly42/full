@@ -1,0 +1,75 @@
+[
+     
+      {
+        "name": "Item 1",
+        "category": "Electronics",
+        "price": 499.99,
+        "description": "High-quality electronic device with advanced features.",
+        "image_name": "item1.jpg"
+      },
+      {
+        "name": "Item 2",
+        "category": "Clothing",
+        "price": 29.99,
+        "description": "Comfortable and stylish clothing for everyday wear.",
+        "image_name": "item2.jpg"
+      },
+      {
+        "name": "Item 3",
+        "category": "Home and Kitchen",
+        "price": 79.99,
+        "description": "Functional and elegant home and kitchen accessory.",
+        "image_name": "item3.jpg"
+      },
+      {
+        "name": "Item 4",
+        "category": "Books",
+        "price": 12.99,
+        "description": "Bestselling book by a renowned author.",
+        "image_name": "item4.jpg"
+      },
+      {
+        "name": "Item 5",
+        "category": "Toys",
+        "price": 39.99,
+        "description": "Fun and educational toy for kids of all ages.",
+        "image_name": "item5.jpg"
+      },
+      {
+        "name": "Item 6",
+        "category": "Sports and Outdoors",
+        "price": 89.99,
+        "description": "Durable and reliable sports equipment for outdoor activities.",
+        "image_name": "item6.jpg"
+      },
+      {
+        "name": "Item 7",
+        "category": "Beauty and Personal Care",
+        "price": 19.99,
+        "description": "Premium beauty product for self-care and pampering.",
+        "image_name": "item7.jpg"
+      },
+      {
+        "name": "Item 8",
+        "category": "Garden and Patio",
+        "price": 59.99,
+        "description": "Decorative and functional items for your garden and patio.",
+        "image_name": "item8.jpg"
+      },
+      {
+        "name": "Item 9",
+        "category": "Fitness",
+        "price": 129.99,
+        "description": "High-performance fitness equipment for a healthy lifestyle.",
+        "image_name": "item9.jpg"
+      },
+      {
+        "name": "Item 10",
+        "category": "Jewelry",
+        "price": 149.99,
+        "description": "Elegant and timeless jewelry piece for special occasions.",
+        "image_name": "item10.jpg"
+      }
+    
+    ]
+  

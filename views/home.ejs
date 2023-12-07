@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hello!</title>
+    <meta name="description" content="description"/>
+    <meta name="author" content="author" />
+    <meta name="keywords" content="keywords" />
+    <link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+    <style type="text/css">.body { width: auto; }</style>
+  </head>
+  <body>
+   <h1>Home</h1>
+  </body>
+
+<div id="holdall" >
+
+     <div id="branding">
+      <h2>Liams shop</h2>
+     </div>
+
+     <div id="mainstuff">
+      <% items.forEach(item => { %>
+      <div class="displayitems">
+        
+        <li>
+          <h1><%= item.name %></h1>
+          <p>Category: <%= item.category %></p>
+          <p>Price: $<%= item.price.toFixed(2) %></p>
+          <p>Description: <%= item.description %></p>
+          <img src="<%= item.image_name %>" alt="<%= item.name %> Image">
+        </li>
+      </div>
+      <% }); %>
+      
+     
+
+</div>
+
+
+</html>
